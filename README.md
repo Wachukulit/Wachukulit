@@ -7,6 +7,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
+ </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&&langs_count=8&theme=dark&hide_border=true" alt="wachukulit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wachukulit&show_icons=true&theme=dark&hide_border=true" alt="wachukulit" /></p>
 
