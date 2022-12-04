@@ -8,8 +8,4 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 ## Stats:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&&langs_count=8&theme=dark&hide_border=true" alt="wachukulit" /></p>
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wachukulit&show_icons=true&theme=dark&hide_border=true" alt="wachukulit" /></p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wachukulit&theme=dark&hide_border=true" background-color:powderblue; alt="wachukulit" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wachukulit &theme=radical)
