@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wachukulit</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=ED3F84&width=435&lines=Hey%2C+I'm+wachukulit!)](https://github.com/wachukulit)
 
 - 🔭 I’m currently working on [EndlessRP](.gg/endlessroleplay)
 
