@@ -14,3 +14,8 @@ Working on **Endless Roleplay**!.
 | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Main development tool |
 
 ---
+
+## Github Stats
+![stats](https://github.ihyajb.dev/api?username=ihyajb&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact&hide_title=true&hide_rank=false&show=prs_merged)
+
+![lang](https://github.ihyajb.dev/api/top-langs/?username=ihyajb&hide_progress=true&layout=compact&theme=discord_old_blurple)
