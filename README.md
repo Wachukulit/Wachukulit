@@ -2,18 +2,6 @@
 
 Working on **Endless Roleplay**!.  
 
----
-
-## 🚀 Features
-
-- 📊 **Player Stats System** — Keep track of skills, progress, and activity.  
-- 💬 **Discord Presence** — In-game actions displayed on Discord in real-time.  
-- 🧩 **Modular Resources** — Easily expandable and developer-friendly.  
-- 🎨 **Custom UI** — HTML, CSS, and Vue for a smooth interactive experience.  
-- ⚙️ **Optimized Performance** — Built for stability and low latency.
-
----
-
 ## 🧰 Tech Stack
 
 | Tool | Description |
