@@ -6,4 +6,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&&langs_count=8&theme=dark&hide_border=true" alt="wachukulit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wachukulit&show_icons=true&theme=dark&hide_border=true" alt="wachukulit" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wachukulit&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wachukulit&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
