@@ -1,17 +1,16 @@
 # 🌌 Endless Roleplay
 
-**Endless Roleplay** is an immersive FiveM experience built for fun, creativity, and community.  
-With rich player stats, Discord integration, and a growing list of unique features — this project is crafted to bring endless possibilities to roleplay.
+Working on **Endless Roleplay**!.  
 
 ---
 
 ## 🚀 Features
 
-- 📊 **Player Stats System** — Track player progress, skills, and activity.
-- 💬 **Discord Presence Integration** — Show in-game activity on Discord.
-- 🏙️ **Optimized Framework** — Smooth performance and modular structure.
-- 🎨 **Custom UI** — Built with HTML, CSS, and Vue for a sleek look.
-- 🔧 **Developer Friendly** — Clean Lua scripting and organized resources.
+- 📊 **Player Stats System** — Keep track of skills, progress, and activity.  
+- 💬 **Discord Presence** — In-game actions displayed on Discord in real-time.  
+- 🧩 **Modular Resources** — Easily expandable and developer-friendly.  
+- 🎨 **Custom UI** — HTML, CSS, and Vue for a smooth interactive experience.  
+- ⚙️ **Optimized Performance** — Built for stability and low latency.
 
 ---
 
@@ -24,6 +23,6 @@ With rich player stats, Discord integration, and a growing list of unique featur
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | UI styling |
 | ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | Frontend framework |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Backend utilities |
-| ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Main development tool |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Main development tool |
 
 ---
