@@ -16,6 +16,5 @@ Working on **Endless Roleplay**!.
 ---
 
 ## Github Stats
-![stats](https://github.wachukulit.dev/api?username=wachukulit&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact&hide_title=true&hide_rank=false&show=prs_merged)
-
-![lang](https://github.wachukulit.dev/api/top-langs/?username=wachukulit&hide_progress=true&layout=compact&theme=discord_old_blurple)
+![Stats](https://github-readme-stats.vercel.app/api?username=wachukulit&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&layout=compact&theme=discord_old_blurple)
