@@ -1,4 +1,4 @@
-# 🌌 Endless Roleplay
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=228bf6&width=435&lines=Hey%2C+I'm+Wachukulit!)](https://github.com/wachukulit)
 
 Working on **Endless Roleplay**!.  
 
