@@ -18,7 +18,6 @@
 <p align="center">
   <a href="https://discord.com/users/149099171016605697"><img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <br />
-  <img src="https://lanyard.cnrad.dev/api/149099171016605697?borderRadius=5px&idleMessage=Idle&bg=a&animated=true" alt="Discord Presence" />
 </p>
 
 ---
