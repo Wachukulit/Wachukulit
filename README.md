@@ -1,21 +1,54 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=228bf6&width=435&lines=Hey%2C+I'm+Wachukulit!)](https://github.com/wachukulit)
+<div align="center">
 
-Working on **Endless Roleplay**!.  
+<a href="https://github.com/wachukulit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=228BF6&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Wachukulit!+%F0%9F%91%8B;Building+Endless+Roleplay+%F0%9F%8E%AE;Lua+%E2%80%A2+Vue+%E2%80%A2+React+%E2%80%A2+Java" alt="Typing SVG" />
+</a>
 
-## 🧰 Tech Stack
+<p>
+  <img src="https://komarev.com/ghpvc/?username=wachukulit&color=228bf6&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/wachukulit?tab=followers"><img src="https://img.shields.io/github/followers/wachukulit?style=flat-square&color=228bf6&label=Followers" alt="Followers" /></a>
+</p>
 
-| Tool | Description |
-|------|--------------|
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | Core scripting language |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | UI structure |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | UI styling |
-| ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | Frontend framework |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Frontend framework |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Backend utilities |
-| ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Main development tool |
+</div>
 
 ---
 
-## Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=wachukulit&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&layout=compact&theme=discord_old_blurple)
+### 🚀 Currently Working On
+**Endless Roleplay**, a FiveM roleplay server built with custom Lua resources and modern web UIs.
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,html,css,js,vue,react,java,vscode,git&theme=dark" alt="Tech stack" />
+
+</div>
+
+| Tool | Used For |
+|------|----------|
+| **Lua** | Core scripting language |
+| **HTML5 / CSS3** | UI structure & styling |
+| **Vue.js / React** | Frontend frameworks (NUI) |
+| **Java** | Backend utilities |
+| **VS Code** | Main development tool |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wachukulit&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=228bf6&icon_color=228bf6&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=228bf6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=wachukulit&theme=tokyonight&hide_border=true&background=00000000&ring=228BF6&fire=228BF6&currStreakLabel=228BF6" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Thanks for stopping by!</sub>
+</div>
