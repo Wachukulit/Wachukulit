@@ -1,54 +1,36 @@
+<h2 align="center">
+  <samp>&gt; HelloWorld(), I am <b><a target="_blank" href="https://github.com/wachukulit">Wachukulit</a></b></samp>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=228BF6&center=true&vCenter=true&width=500&lines=Building+Endless+Roleplay+%F0%9F%8E%AE;Lua+%E2%80%A2+Vue+%E2%80%A2+React+%E2%80%A2+Java;FiveM+Developer" alt="Typing SVG" />
+</h2>
+
 <div align="center">
 
-<a href="https://github.com/wachukulit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=228BF6&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Wachukulit!+%F0%9F%91%8B;Building+Endless+Roleplay+%F0%9F%8E%AE;Lua+%E2%80%A2+Vue+%E2%80%A2+React+%E2%80%A2+Java" alt="Typing SVG" />
+<h3><code>wachukulit@github ~ $ whoami</code></h3>
+<img src="./info-card.svg" width="600" alt="Info Card"/>
+
+<br><br>
+
+<h3><code>wachukulit@github ~ $ ./contributions.sh</code></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wachukulit/wachukulit/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/wachukulit/wachukulit/output/github-contribution-grid-snake.svg" width="860" alt="Contribution Graph" />
+</picture>
+
+<br><br>
+
+<h3><code>wachukulit@github ~ $ ls ./skills</code></h3>
+<a href="https://github.com/wachukulit"><img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,vue,react,nodejs,java,mysql,git,vscode&theme=dark" alt="Skills"/></a>
+
+<br><br>
+
+<h3><code>wachukulit@github ~ $ discord --status</code></h3>
+<a href="https://discord.com/users/149099171016605697">
+  <img alt="wachukulit's discord" src="https://discord.c99.nl/widget/theme-4/149099171016605697.png"/>
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=wachukulit&color=228bf6&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/wachukulit?tab=followers"><img src="https://img.shields.io/github/followers/wachukulit?style=flat-square&color=228bf6&label=Followers" alt="Followers" /></a>
-</p>
+<p><i>"Too many of us are not living our dreams because we are living our fears...."</i></p>
 
 </div>
 
----
-
-### 🚀 Currently Working On
-**Endless Roleplay**, a FiveM roleplay server built with custom Lua resources and modern web UIs.
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=lua,html,css,js,vue,react,java,vscode,git&theme=dark" alt="Tech stack" />
-
-</div>
-
-| Tool | Used For |
-|------|----------|
-| **Lua** | Core scripting language |
-| **HTML5 / CSS3** | UI structure & styling |
-| **Vue.js / React** | Frontend frameworks (NUI) |
-| **Java** | Backend utilities |
-| **VS Code** | Main development tool |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wachukulit&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=228bf6&icon_color=228bf6&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachukulit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=228bf6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=wachukulit&theme=tokyonight&hide_border=true&background=00000000&ring=228BF6&fire=228BF6&currStreakLabel=228BF6" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Thanks for stopping by!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:228bf6,75:6e97fd,100:5d52ac" width="100%"/>
