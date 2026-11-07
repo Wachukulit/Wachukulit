@@ -29,7 +29,7 @@
 
 - 🔎 **Known as:** Wachukulit
 - 🎮 **Project:** Endless Roleplay
-- 🛠️ **Role:** Server & UI Developer
+- 🛠️ **Role:** Developer
 - 💻 **Programming in:** Lua, JavaScript, Java
 - 🖥️ **Editor:** VS Code
 
