@@ -5,7 +5,7 @@
 [Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
 
 <h1 align="center">💻 Hey, I'm Wachukulit 💻</h1>
-<h3 align="center">🎮 FiveM Server & UI Developer behind Endless Roleplay 🎮</h3>
+<h3 align="center">🎮 FiveM Server Developer behind Endless Roleplay 🎮</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=228BF6&center=true&vCenter=true&width=500&lines=Building+Endless+Roleplay+%F0%9F%8E%AE;Lua+%E2%80%A2+Vue+%E2%80%A2+React+%E2%80%A2+Java;FiveM+Developer" alt="Typing SVG" />
